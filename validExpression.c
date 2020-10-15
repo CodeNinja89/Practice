@@ -1,3 +1,4 @@
+/* check if an expression has valid number of opening and closing parenthesis, braces or, square brackets */
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
