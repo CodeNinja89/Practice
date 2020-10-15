@@ -1,3 +1,4 @@
+/*create a BST and perform in-order, post order, preorder and breadth first traversal */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> // for generating random numbers
