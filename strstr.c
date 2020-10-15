@@ -1,3 +1,5 @@
+/* check if a given string is a substring of another string
+ * needle in a haystack */
 #include <stdio.h>
 
 int compare(char *str1, char *str2) {
