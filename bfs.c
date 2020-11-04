@@ -43,13 +43,13 @@ int queueSize(struct queue *node) {
 	}
 	return size;
 }
-/*
+
 void printQueue(struct queue *node) {
 	while(node != NULL) {
 		printf("%d %d\n", node->row, node->col);
 		node = node->next;
 	}
-}*/
+}
 
 int orangesRotting(int** grid, int gridSize, int* gridColSize) {
 	struct queue *head = NULL;
