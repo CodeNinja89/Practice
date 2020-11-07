@@ -10,7 +10,7 @@ int compare(char *str1, char *str2) {
 		str1++;
 		str2++;
 	}
-	return (*str1 == '\0');
+	return (*str2 == '\0');
 }
 
 char *strStr(char *haystack, char *needle) {
